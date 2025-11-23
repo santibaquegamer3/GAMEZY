@@ -34,7 +34,7 @@
             android:lineSpacingExtra="4dp"
             android:maxLines="3"
             android:textColor="@color/text_primary"
-            android:textSize="25dp"
+            android:textSize="30dp"
             android:textStyle="bold" />
 
         <LinearLayout

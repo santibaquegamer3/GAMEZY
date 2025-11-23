@@ -51,7 +51,7 @@
         <!-- ESTADÍSTICAS RÁPIDAS -->
 
         <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerView"
+            android:id="@+id/recyclerViewHome"
             android:layout_width="373dp"
             android:layout_height="388dp" />
 
